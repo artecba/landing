@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "formik": "latest",
+    "next": "latest",
+    "next-compose-plugins": "latest",
+    "node-sass": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-text-rotator": "latest",
+    "reactstrap": "latest",
+    "webpack": "5.0.0",
+    "next-images": "latest"
+  },
+  "devDependencies": {
+    "react-modal-video": "^1.2.8"
+  }
+
+}
